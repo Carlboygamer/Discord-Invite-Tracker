@@ -3,7 +3,7 @@
 ****
 ## 🚀 Support on
 
- ![replit](https://img.icons8.com/color/30/relpit.png) ![heroku(https://img.icons8.com/color/30/heroku.png)
+ ![replit](https://cdn.freebiesupply.com/logos/large/2x/replit-logo-png-transparent.png) ![heroku(https://img.icons8.com/color/30/heroku.png)
  
  ****
  
